@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Deric Navino 👋
+CS Undergraduate @ State University of Jakarta
+A developer who enjoys creating convenient, useful and beautiful digital experiences.
+I like games, music 🎧, and novels 📚
+
+Fun fact:
+- My cat's name is Tayo
