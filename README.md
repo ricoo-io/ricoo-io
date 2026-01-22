@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Deric Navino 👋
+
 CS Undergraduate @ State University of Jakarta
+
 A developer who enjoys creating convenient, useful and beautiful digital experiences.
+
 I like games, music 🎧, and novels 📚
 
 Fun fact:
